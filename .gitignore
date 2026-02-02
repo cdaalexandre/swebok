@@ -1,0 +1,30 @@
+# Temporários
+*.tmp
+*.log
+*.swp
+*.swo
+*~
+
+# Sistemas
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.env
+
+# Node
+node_modules/
+npm-debug.log
+
+# Build
+dist/
+build/
